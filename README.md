@@ -25,7 +25,7 @@ This project analyzes credit card client data to identify patterns and predictiv
 - **Size:** Multiple client records with complete feature coverage.
 - **Preprocessing:** Feature scaling, missing value handling, and outlier assessment.
 
-## 🔧 Methodology
+##  Methodology
 
 ### 1. Exploratory Data Analysis
 - Univariate and bivariate analysis of key features.
