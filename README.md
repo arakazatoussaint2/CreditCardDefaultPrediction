@@ -44,7 +44,7 @@ This project analyzes credit card client data to identify patterns and predictiv
 - Profile interpretation: high-exposure, mature/high-limit, young/low-limit segments.
 - Business implications for credit policy and monitoring strategies.
 
-### 4. Classification Modeling
+### 4. Prediction Modeling
 - Train Logistic Regression model.
 - Evaluation metrics: accuracy, precision, recall, ROC-AUC.
 - Feature importance analysis to identify top predictive factors.
