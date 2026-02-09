@@ -52,6 +52,6 @@ This project analyzes credit card client data to identify patterns and predictiv
 
 ##  Project Structure
 credit-card-default-prediction/
-├── README.md # Project documentation
-├── Exploration_Analysis&Predictions.ipynb # Main analysis and modeling notebook
-└── default-of-credit-card-clients.xls # csv file
+- README.md # Project documentation
+- Exploration_Analysis&Predictions.ipynb # Main analysis and modeling notebook
+- default-of-credit-card-clients.xls # csv file
